@@ -1,0 +1,2 @@
+# rnaSeqPanCanClassifier_container
+Docker container for rnaSeqPanCanClassifier
